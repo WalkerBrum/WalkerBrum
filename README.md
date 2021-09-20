@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Walker Brum 
 - 👀 I’m interested in tecnology, people and travels. 
-- 🌱 I’m currently learning Web Develop Full Stack for Awari.
+- 📜 I’m currently studying Web Development at Awari School
 - 💞️ I’m looking to collaborate on many projects for my portfolio and help the web developer community.
 - 📫 How to reach me in linkedin <https://www.linkedin.com/in/walkerlobato/>
 
