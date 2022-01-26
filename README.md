@@ -14,7 +14,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Django](	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Django](	https://img.shields.io/badge/Django-14354C?style=for-the-badge&logo=python&logoColor=white)
 <!---
 
 WalkerBrum/WalkerBrum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
